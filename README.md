@@ -13,8 +13,6 @@ TelecomX-Parte2/
 
 │── 📑 reporte.csv # Dataset procesado para modelado
 
-│── 📁 visualizaciones/ # Gráficos generados (EDA, resultados)
-
 │── 📄 README.md # Documentación del proyecto
 
 ---

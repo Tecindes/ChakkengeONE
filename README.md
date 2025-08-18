@@ -1,7 +1,7 @@
 # ChallengeONE
 # 📊 Análisis de Cancelación de Clientes (Churn Prediction)
 
-Este proyecto tiene como objetivo **identificar los factores que influyen en la cancelación de clientes** en una empresa de telecomunicaciones, utilizando diferentes modelos de Machine Learning y técnicas de interpretación de variables.  
+Este proyecto tiene como objetivo **identificar los factores que influyen en la cancelación de clientes** de la empresa Telecom X, utilizando diferentes modelos de Machine Learning y técnicas de interpretación de variables.  
 
 ---
 
